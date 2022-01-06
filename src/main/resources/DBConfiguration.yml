@@ -1,0 +1,5 @@
+db :
+  driver.class.name : com.mysql.jdbc.Driver
+  url: jdbc:mysql://localhost:3306/demodb
+  username: sa
+  password: Software@2022
