@@ -26,6 +26,6 @@ This web application was created by intelliji using maven with these specificati
    - path : /src/main/resources/DBConfiguration.yml
    - db should has at least one table called brand with two columns (id(pk) int , name varchar)
 
-5- in your browser, hit "http://localhost:8080/endpoint " and to check the heathcheck hit http://localhost:8081/healthcheck
+5- in your browser, hit "http://localhost:8080/{endpoint} " and to check the heathcheck hit http://localhost:8081/healthcheck
 
 6- requests collection link : https://www.postman.com/collections/c8f3c5128560b1486887
