@@ -24,6 +24,7 @@ This web application was created by intelliji using maven with these specificati
 
 4- configure DB property file: 
    - path : /src/main/resources/DBConfiguration.yml
+   - db should has at least one table called brand with two columns (id(pk) int , name varchar)
 
 5- in your browser, hit "[server name]:[port]/brands/"
 
