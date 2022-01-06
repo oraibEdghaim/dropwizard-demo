@@ -20,9 +20,11 @@ This web application was created by intelliji using maven with these specificati
 
 2- in your ID import the project as maven project
 
-3- configure DB property file: 
+3- define JVM argument to define the app config file, for our project pass "server DBConfiguration.yml"
+
+4- configure DB property file: 
    - path : /src/main/resources/DBConfiguration.yml
 
-4- in your browser, hit "[server name]:[port]/brands/"
+5- in your browser, hit "[server name]:[port]/brands/"
 
-5- requests collection link : https://www.postman.com/collections/c8f3c5128560b1486887
+6- requests collection link : https://www.postman.com/collections/c8f3c5128560b1486887
